@@ -8,7 +8,7 @@
 //   2. call this function with `call Sys.xor 2`.
 // Before returning, the function pushes the result onto the
 // stack, so that, from the point of view of the callee, the
-// result is at the top of the stack.
+// result is at the top of the stack.    
 //
 function Sys.xor 2
 push argument 0
